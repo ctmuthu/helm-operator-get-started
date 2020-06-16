@@ -15,7 +15,7 @@ spec:
     ref: master
   values:
     image:
-      repository: ctmuthu93/podinfo
+      repository: ctmuthu93/configcontainer
       tag: latest
     replicaCount: 1
     hpa:
